@@ -1,5 +1,5 @@
 function calculatePartB() {
-    const standardPremium = 174.70; // 2024 value
+    const standardPremium = 185.00; // 2025 value
     const monthsWithoutCoverage = parseInt(document.getElementById('partB-months').value);
 
     if (isNaN(monthsWithoutCoverage)) {
